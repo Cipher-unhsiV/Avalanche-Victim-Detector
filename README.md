@@ -34,6 +34,8 @@ The drone captures thermal imagery to identify humans, aided by safety gear dete
    - Rapid terrain surveillance.
    - Classification logs to aid rescue teams in the critical 60-minute window.
 
+![Workflow](https://github.com/user-attachments/assets/7abc2768-d14e-4d58-bc0b-115c4c60a4f2)
+
 ---
 
 ## Technology Stack
