@@ -54,7 +54,13 @@ The drone captures thermal imagery to identify humans, aided by safety gear dete
 The proposed system improves detection accuracy and reduces response time, ensuring better survival chances for avalanche victims.
 
 ## Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
+We welcome contributions from the community! If you'd like to contribute:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## License
-This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
