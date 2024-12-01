@@ -1,4 +1,4 @@
-# Victim Detection Under Avalanches Using Drone Technology
+# Avalanche Victim Detector
 
 <div align="center">
   
